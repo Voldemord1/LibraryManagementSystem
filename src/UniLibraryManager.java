@@ -9,10 +9,6 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- *
- * @author User
- */
 public class UniLibraryManager implements LibraryManager{
     List<LibraryItem> listItem = new ArrayList();
 
