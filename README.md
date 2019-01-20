@@ -17,7 +17,6 @@ number and email (3 points).
 •  You should implement a class DateTime to represent the time/date of when the 
 item has been borrowed. Do not use any predefined library for date and time and 
 you can refer as example to the class that has been provided during the tutorials. 
-ПРИЛОЖИЛ ВМЕСТЕ С ДОКУМЕНТОМ. Нужно доработать и добавить время. 
 2.   Design and implement a class called UniLibraryManager, which implements the interface 
 LibraryManager. UniLibraryManager maintains the list of the items in the library and 
 provides all the methods for the library manager actor to manage the library.  
